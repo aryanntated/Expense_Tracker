@@ -34,9 +34,10 @@ We can also filter the expenses based on their categories :
 ![image](https://github.com/aryanntated/Expense_Tracker/assets/108977638/f818f475-5f31-46f1-9b49-130ece7d50be)
 
 ## 4. Backend Connection : 
-    1) Database Updation - 
+   
+   1) Database Updation - 
 ![image](https://github.com/aryanntated/Expense_Tracker/assets/108977638/35d703f0-e2dd-4d03-963d-32d3bbdf7cb7)
 
-    2) User Database Created -
+   2) User Database Created -
 ![image](https://github.com/aryanntated/Expense_Tracker/assets/108977638/455aa2d9-6298-44a9-9eaa-9e1bea193925)
 
