@@ -3,7 +3,9 @@
 ## 1. Login Page : 
 ![image](https://github.com/aryanntated/Expense_Tracker/assets/108977638/84589188-d3a0-4842-bc0e-cda402038886)
 
-    After registering your account :
+
+After registering your account :
+
 ![image](https://github.com/aryanntated/Expense_Tracker/assets/108977638/d8591872-5424-4dd1-8caa-d13455538bd2)
 
 On Incorrect Credentials during login:
