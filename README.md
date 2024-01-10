@@ -1,4 +1,16 @@
 # WalletWise - An Expense Management System
+
+The "WalletWise" Expense Tracker project utilizes Java Swing for an interactive GUI, facilitating the creation of user-friendly interfaces with windows, buttons, and other elements.
+
+Multithreading is implemented for concurrent entry logging, ensuring efficient handling of multiple entries simultaneously on the Event Dispatch Thread (EDT).
+
+JDBC (Java Database Connectivity) establishes a connection between the Java application and the lightweight SQLite database, allowing seamless storage and retrieval of financial data for each registered account.
+
+SQLite is chosen for its lightweight and embedded nature, serving as the backend storage system for WalletWise, storing user data, expense entries, and other relevant information.
+
+ActionListener from Java AWT handles user actions, enabling the application to respond to user inputs, particularly for GUI components like buttons, triggering appropriate actions when activated.
+
+
  
 ## 1. Login Page : 
 ![image](https://github.com/aryanntated/Expense_Tracker/assets/108977638/84589188-d3a0-4842-bc0e-cda402038886)
