@@ -16,9 +16,9 @@ WalletWise is a Java-based Expense Tracker designed to help users manage their f
 - SQLite (for database storage)
 
 **To Clone the repository:**
-   ```bash
    git clone https://github.com/aryanntated/WalletWise.git
 
+## The UI :
 ## 1. Login Page : 
 ![image](https://github.com/aryanntated/Expense_Tracker/assets/108977638/84589188-d3a0-4842-bc0e-cda402038886)
 
